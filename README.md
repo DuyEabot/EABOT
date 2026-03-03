@@ -1,8 +1,10 @@
 # EABOTHELLO my Boss! Here doing the BotEA MT5 && MT4<br>
 Check Online connect to Metatrader 4 Broker (HFMarketsSV-Demo) (ID:41705389)  pass view: Aaaa@4444<br><br>
 <br>
+![Alt text](https://github.com/DuyEabot/EABOT/blob/main/6133930618815974911.jpg?raw=true)<br>
 add this link to MT4 MT5 click Tools =>> options =>> Expert Advisors fill link: <br>
-
+![Alt text](https://github.com/DuyEabot/EABOT/blob/main/6133930618815974911.jpg?raw=true)<br>
+<a http://eabot.atwebpages.com/" target="_blank"WEBSITE CONNECT EABOT</a><br>
 <pre><code>
 https://raw.githubusercontent.com
 </code></pre>
