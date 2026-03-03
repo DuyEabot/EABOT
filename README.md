@@ -15,7 +15,7 @@ http://eabot.atwebpages.com
 </code></pre>
 <br><br>
 ![Alt text](https://github.com/DuyEabot/EABOT/blob/main/6133930618815974911.jpg?raw=true)<br>
-![Alt text](https://github.com/DuyEabot/EABOT/blob/main/6133930618815974912.jpg?raw=true)<br>
+![Alt text](https://github.com/DuyEabot/EABOT/blob/main/6133930618815974912.jpg?raw=true)<br> 
 And Tick chose Allow WebRequest for listerd URL<br>
 ![Alt text](https://github.com/DuyEabot/EABOT/blob/main/6133930618815974910.jpg?raw=true)<br>
 Attack Bot and seen ID Active ok Bot Start<br>
