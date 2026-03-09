@@ -1,5 +1,5 @@
 # EABOT HELLO my Boss! Here doing the BotEA MT5 && MT4<br>
-Check Online connect to Metatrader 4 Broker (HFMarketsSV-Demo) (ID:41705318)  pass view: Aaaa@4444<br><br>
+<br>
 <br>
 
 ![Alt text](https://github.com/DuyEabot/EABOT/blob/main/website.png?raw=true)<br>
