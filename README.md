@@ -21,7 +21,7 @@ And Tick chose Allow WebRequest for listerd URL<br>
 Attack Bot and seen ID Active ok Bot Start<br>
 Help Add ID and Set IB (Introducing Broker) in your account Active bot:<br>
 <a href="https://t.me/botmt5robotsmql5" target="_blank">TELEGRAMBOTEAHELP</a><br><br>
-<a href="https://www.litefinance.org/?uid=334884775" target="_blank">https://www.litefinance.org/?uid=334884775</a>
+<a href="https://affs.click/Ww17h" target="_blank">Creat account on XMMARKET with partner code: 9KXF7</a>
 <br><br>
  My Metamask wallet address you can give me coffee hehe on BSC chain Wishing you much success and good luck in your trading!.<br>
 <pre><code>0xf6f82dd53c7a1056fb73777881136996bbea4ecd</code></pre>
